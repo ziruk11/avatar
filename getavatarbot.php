@@ -2,7 +2,7 @@
 
   define("TOKEN", "YOUR_BOT_TOKEN");
   define("BOT", "YOUR_BOT_NAME");
-  define("SITE", "YOUR_SITE_LINK");
+  define("SITE", "YOUR_SITE");
 
 
   function sendtext($text, $chat, $keyboard = ""){
