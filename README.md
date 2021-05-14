@@ -8,6 +8,9 @@ Done using the [openpeeps](https://www.openpeeps.com/) library.
 
 ## How to set up
 Copy all the content of this repository in your host folder and change the value of some constants how shown below:
--```YOUR_BOT_TOKEN``` with your bot token from botfather
--```YOUR_SITE``` with the link of your site like telegramchatbot.altervista.org/getavatar.php
--```YOUR_PATH``` with the path of your folder like telegramchatbot.altervista.org/
+
+```YOUR_BOT_TOKEN``` with your bot token from botfather
+
+```YOUR_SITE``` with the link of your site like telegramchatbot.altervista.org/getavatar.php
+
+```YOUR_PATH``` with the path of your folder like telegramchatbot.altervista.org/
