@@ -5,7 +5,7 @@ Try the website at [getavatars](https://telegramchatbot.altervista.org/getavatar
 
 ![preview](/avatar/copertina.png)
 
-Done using the [openpeeps](https://www.openpeeps.com/) library.
+
 
 
 
@@ -28,3 +28,4 @@ You'll need to set the webhook of your bot to getavatarbot.php. You can use the 
 * Made with php 7.3
 * getavatar.php is basically your index file
 * getavataar.php is the mobile optimized version of getavatar.php
+* Done using the [openpeeps](https://www.openpeeps.com/) library.
