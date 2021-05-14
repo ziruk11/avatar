@@ -21,7 +21,7 @@ Copy all the content of this repository in your folder and change the value of s
 
 ```YOUR_PATH``` with the path of your folder (i.e. telegramchatbot.altervista.org/)
 
-You'll need to set the webhook of your bot to getavatarbot.php. You can use the link below
+If you want to use the bot too you'll need to set the webhook of your bot to getavatarbot.php. You can use the link below
 ```api.telegram.org/botYOUR_BOT_TOKEN/setWebhook?url=YOUR_PATH/getavatarbot.php```
 
 ### NOTE
