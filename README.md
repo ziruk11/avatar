@@ -13,6 +13,13 @@ Copy all the content of this repository in your host folder and change the value
 
 ```YOUR_BOT_TOKEN``` with your bot token from botfather
 
-```YOUR_SITE``` with the link of your site like telegramchatbot.altervista.org/getavatar.php
+```YOUR_BOT_NAME``` with the name of your bot (i.e. getavatar_bot)
 
-```YOUR_PATH``` with the path of your folder like telegramchatbot.altervista.org/
+```YOUR_SITE``` with the link of your site (i.e. telegramchatbot.altervista.org/getavatar.php)
+
+```YOUR_PATH``` with the path of your folder (i.e. telegramchatbot.altervista.org/)
+
+
+### NOTE
+* Made with php 7.3
+* getavataar.php is the mobile optimized version of getavatar.php
