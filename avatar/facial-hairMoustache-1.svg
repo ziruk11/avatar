@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="108px" height="86px" viewBox="0 0 108 86" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <rect width="107.407448" height="85.6321945" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="facial-hair/Moustache-1" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" />
+    <path d="M53.6317 5.10703C49.7661 3.01537 45.5159 0.309393 41.0224 0C38.3061 0.112066 37.7012 3.2302 39.7166 4.68036C43.243 6.5907 47.5409 7.30852 51.0408 9.40874C54.6252 11.3481 58.4773 12.789 62.128 14.5668L62.1574 14.5803C62.3465 14.6512 62.5765 14.4423 62.4475 14.2566L62.3048 14.0237C60.1053 10.4603 57.3519 7.26423 53.6317 5.10703ZM27.7404 5.15117C29.0861 4.68987 29.5 3.11089 29.3362 2.11607C29.0888 0.6149 26.2471 -0.0653177 24.9145 0.216896C17.661 1.75157 -3.34637 11.3848 0.456239 13.6939L0.620419 13.7639C5.85541 11.2172 11.8572 9.48185 17.7702 7.86526L20.8484 7.0285C23.2231 6.397 25.3763 5.9606 27.7404 5.15117Z" transform="translate(47.18335 12.6585)" id="💈-Hair" fill="#000000" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

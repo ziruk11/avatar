@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="108px" height="86px" viewBox="0 0 108 86" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <rect width="107.407448" height="85.6321945" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="facial-hair/Moustache-3" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" />
+    <path d="M125.43 0.745039C124.617 -0.442642 122.312 0.279647 122.906 1.77635C129.359 15.9883 126.374 27.0423 108.237 25.1089C97.3029 24.4197 86.6841 15.0356 75.7029 19.7051C72.8715 21.9126 71.0076 22.1862 68.0159 19.7975C56.1451 14.756 42.7038 23.7429 30.7774 24.9566C12.1173 26.7374 1.9684 20.6784 11.3946 2.10026C11.9849 0.838118 10.2702 -0.826125 9.21917 0.469527C-3.79669 15.1696 -4.45034 34.9071 16.5006 42.5224C31.8772 47.492 61.2834 51.6042 71.8377 36.6212C78.5745 47.4406 92.9728 48.0881 104.548 46.1521C132.495 43.6483 141.058 22.5723 125.43 0.745039" transform="translate(9.20621 -7.074146)" id="💈-Hair" fill="#000000" stroke="none" />
+  </g>
+</svg>
