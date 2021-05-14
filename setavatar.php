@@ -1,6 +1,6 @@
 <?php
 
-define("SITE", "PATH_TO_YOUR_FOLDER");
+define("SITE", "YOUR_PATH");
 
 
 $img = $_POST['avt'];
@@ -9,7 +9,7 @@ $bot = $_POST['bot'];
 
 if($bot == 1){
   define("TOKEN", "YOUR_BOT_TOKEN");
-  define("BOT", "YOUR_TELEGRAM_BOT_NAME");
+  define("BOT", "YOUR_BOT_NAME");
 }
 
 else{
