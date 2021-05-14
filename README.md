@@ -6,6 +6,7 @@ Try the website at [getavatars](https://telegramchatbot.altervista.org/getavatar
 Done using the [openpeeps](https://www.openpeeps.com/) library.
 
 
+
 ## How to set up
 Copy all the content of this repository in your host folder and change the value of some constants how shown below:
 
