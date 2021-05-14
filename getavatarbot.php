@@ -1,8 +1,8 @@
 <?php
 
-  define("TOKEN", "1732437285:AAEgW8rzLWvC7OGn3N3pwxmCcj8mp1opsz8");
-  define("BOT", "provaavatarbot");
-  define("SITE", "https://pretty-wasp-79.telebit.io/getavatar/getavatar.php");
+  define("TOKEN", "YOUR_BOT_TOKEN");
+  define("BOT", "YOUR_BOT_NAME");
+  define("SITE", "YOUR_SITE_LINK");
 
 
   function sendtext($text, $chat, $keyboard = ""){
