@@ -5,9 +5,7 @@ Try the website at [getavatars](https://telegramchatbot.altervista.org/getavatar
 
 Done using the [openpeeps](https://www.openpeeps.com/) library.
 
-
-
-
+![preview](/avatar/copertina.png)
 ## How to set up
 Copy all the content of this repository in your folder and change the value of some constants how shown below:
 
@@ -19,7 +17,8 @@ Copy all the content of this repository in your folder and change the value of s
 
 ```YOUR_PATH``` with the path of your folder (i.e. telegramchatbot.altervista.org/)
 
-You'll need to set the webhook of your bot to getavatarbot.php (i.e api.telegram.org/botYOUR_BOT_TOKEN/setWebhook?url=YOUR_PATH/getavatarbot.php)
+You'll need to set the webhook of your bot to getavatarbot.php. You can use the link below
+```api.telegram.org/botYOUR_BOT_TOKEN/setWebhook?url=YOUR_PATH/getavatarbot.php```
 
 ### NOTE
 * Made with php 7.3
